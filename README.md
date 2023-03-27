@@ -1,4 +1,5 @@
-# Download imagens de satélite Sentinel-2 utilizando a biblioteca Sentinelsat.
-Este projeto foi desenvolvido por Eduardo Passos, com o objetivo de realizar o download em lote (batch) de imagens do satélite Sentinel 2, da Agência Espacial Europeia (ESA). Com essas imagens é possível realizar diversos estudos e projetos que envolvam Sensoriamento Remoto.
+# Download Sentinel-2 satellite images using the Sentinelsat library.
 
-Antes de executar o script, certifique-se de que possui conta no portal da ESA: https://scihub.copernicus.eu/dhus
+This project was developed by Eduardo Passos with the objective of batch downloading Sentinel-2 satellite images from the European Space Agency (ESA). These images can be used for various remote sensing studies and projects.
+
+Before running the script, make sure you have an account on the ESA portal: https://scihub.copernicus.eu/dhus
